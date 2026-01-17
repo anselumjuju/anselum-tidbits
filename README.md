@@ -16,7 +16,7 @@ To run this project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/juju-anselum/Anselum-TidBits.git
+   git clone https://github.com/anselumjuju/anselum-tidbits.git
    cd ansleum-tidbits
    ```
 
