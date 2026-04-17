@@ -1,4 +1,4 @@
-import { client } from '../lib/sanity';
+import { client } from './sanity';
 import NodeCache from 'node-cache';
 
 const cache = new NodeCache({ stdTTL: 300 });

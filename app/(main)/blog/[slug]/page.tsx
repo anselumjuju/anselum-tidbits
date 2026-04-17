@@ -1,7 +1,7 @@
-import {BlogPage} from '@/app/containers';
-import {getBlog} from '@/app/lib/fetchData';
-import {blogCardInterface} from '@/app/lib/interface';
-import {urlFor} from '@/app/lib/sanity';
+import {BlogPage} from '@/containers';
+import {getBlog} from '@/lib/fetchData';
+import {blogCardInterface} from '@/lib/interface';
+import {urlFor} from '@/lib/sanity';
 
 interface Props {
   params: {
